@@ -1,5 +1,5 @@
 /**
- *   Adrian Statescu (http://adrianstatescu.com) 
+ *   Adrian Statescu <mergesortv@gmail.com> (http://adrianstatescu.com) 
  *
  *   Golang Program to compute PI number using Monte Carlo Method.
  *   Compile and Run -> go run monte_carlo_pi.go 9000000
