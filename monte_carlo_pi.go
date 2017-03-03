@@ -1,5 +1,6 @@
 /**
  *   Golang Program to compute PI number using Monte Carlo Method.
+ *   Compile and Run -> go run monte_carlo_pi.go 9000000
  */
 package main
 
