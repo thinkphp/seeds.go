@@ -1,5 +1,11 @@
 /**
+ *
+ * Adrian Statescu (http://adrianstatescu.com) 
+ *
  * Euclid's algorithm is an efficient method for computing the greatest common divisor of two numbers, I mean the largest number that divides both of them without leaving a remainder. 
+ *
+ * License MIT
+ *
  */
 package main
 
