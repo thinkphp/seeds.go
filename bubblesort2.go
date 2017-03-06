@@ -1,3 +1,15 @@
+/**
+ *
+ * Author     : Adrian Statescu mergesortv@gmail.com http://adrianstatescu.com
+ *
+ * Description: BubbleSort is a simple sorting algorithm that repeatedly steps through the elements
+ * in an array to be sorted, compares each pair of adjiacent elements and swap thems 
+ * if they are in the wrong order.
+ *
+ * MIT License 
+ *
+ */
+
 package main
 
 import "fmt"
