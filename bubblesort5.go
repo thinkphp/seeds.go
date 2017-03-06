@@ -4,7 +4,12 @@
  *
  * Description: BubbleSort is a simple sorting algorithm that repeatedly steps through the elements
  * in an array to be sorted, compares each pair of adjiacent elements and swap thems 
- * if they are in the wrong order.
+ * if they are in the wrong order. The pass through the list is repeated until no more swaps are needed.
+ *
+ * Complexity : Worst-case O(n^2)
+ *              Best-case O(n)  
+ *              Average-case O(n^2) 
+ *
  *
  * MIT License 
  *
