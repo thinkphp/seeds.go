@@ -40,5 +40,5 @@ func main() {
 
      pi := float64(count) / float64(n) * float64(4)
 
-     fmt.Printf("%s", pi)
+     fmt.Printf("%.30f", pi)
 }

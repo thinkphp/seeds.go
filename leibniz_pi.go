@@ -49,5 +49,5 @@ func main() {
           i += 2
      }         
 
-     fmt.Println("%x", 4 * t2)           
+     fmt.Printf("%.50f", 4 * t2)           
 }
